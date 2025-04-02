@@ -69,9 +69,8 @@ mods:
 
 # Build settings
 remote_theme: sylhare/Type-on-Strap
-color_remote_theme: dark
 markdown: kramdown
-sass:
+_sass: theme/skins/dark.scss
   style: compressed
 
 permalink: pretty
