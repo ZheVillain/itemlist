@@ -1,4 +1,4 @@
-# Metadata
+m# Metadata
 title: "Zhe villain's Purchase List"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
@@ -70,7 +70,7 @@ mods:
 # Build settings
 remote_theme: sylhare/Type-on-Strap
 markdown: kramdown
-_sass: theme/skins/dark.scss
+remote_sass: skins/dark.scss
   style: compressed
 
 permalink: pretty
