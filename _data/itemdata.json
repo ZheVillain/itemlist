@@ -49678,5 +49678,25 @@
     "version": 2,
     "Mod": "Vanilla Races Expanded - Sanguophage",
     "KarmaType": null
+  },
+  "VRE_Antibiotics": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Races Expanded - Genie",
+    "KarmaType": null
   }
 }

@@ -36,10 +36,64 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Android",
-    "steamId": "2975771801",
-    "version": "1.1.0.0"
+    "author": "Darkborderman",
+    "name": "More Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Genie",
+    "steamId": "2901424072",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.5"
+  },
+  {
+    "author": "bradson",
+    "name": "Xenotype Spawn Control",
+    "steamId": "3411568951",
+    "version": "1.0.0+c83d3d8bf6827a79fcaed7f3b99bff44479e35d5"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.3.4"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Solid E. Wires",
+    "name": "Pawnkind Race Diversification (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gege",
+    "name": "[1.5] Custom Xenotype Exporter Tool",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -52,6 +106,24 @@
     "name": "Vanilla Races Expanded - Sanguophage",
     "steamId": "2963116383",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg",
+    "name": "Vanilla Races Expanded - Hussar",
+    "steamId": "2893586390",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Touchnir",
+    "name": "All RoM Class Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Anonymous",
+    "name": "RoM Genes",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sarg Bjornson and AFriend",
@@ -78,22 +150,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
-  },
-  {
     "author": "Turnovus",
     "name": "Integrated Genes",
     "steamId": "2884115974",
     "version": "1.5.2"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "Lennoxicon",
@@ -252,12 +312,6 @@
     "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "11.0.5"
-  },
-  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
@@ -280,12 +334,6 @@
     "name": "To be continued raid noticfication sound replacer",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.5.0.0"
   },
   {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
@@ -328,12 +376,6 @@
     "name": "Star Wars - The Force",
     "steamId": "918226861",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.3.4"
   },
   {
     "author": "legodude17 and ISOREX",
