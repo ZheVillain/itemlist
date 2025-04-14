@@ -12,16 +12,46 @@
     "version": "2.3.1.0"
   },
   {
-    "author": "Roolo",
-    "name": "Search and Destroy (Unofficial Update)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Core",
+    "steamId": "2659227786",
+    "version": "0.4.9"
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Hyur Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Elezen Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Lalafell Race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -30,10 +60,88 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Soareverix",
+    "name": "Infinite Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "3210544395",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chicken Plucker and Taranchuk",
+    "name": "[RH2] Hand-To-Hand",
+    "steamId": "2556532381",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, Sarg Bjornson and RedMattis",
     "name": "Vanilla Races Expanded - Pigskin",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Jecrell",
+    "name": "RimQuest (Continued)",
+    "steamId": "2263331727",
+    "version": "1.5.5"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mechs",
+    "steamId": "2973169158",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Enhancement Pack",
+    "steamId": "1339135272",
+    "version": "1.3.8.0"
+  },
+  {
+    "author": "LifeisGame.inc and Taranchuk",
+    "name": "The Saiyans",
+    "steamId": "2768874080",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gege",
+    "name": "ExportedXenotypeStorageModFolder",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Music Manager (Continued)",
+    "steamId": "3220120457",
+    "version": "1.0.3.0"
   },
   {
     "author": "Darkborderman",
@@ -60,6 +168,12 @@
     "version": "1.0.0+c83d3d8bf6827a79fcaed7f3b99bff44479e35d5"
   },
   {
+    "author": "Sergkart",
+    "name": "WVC - Xenotypes and Genes",
+    "steamId": "2886992038",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "jecrell and contributors",
     "name": "JecsTools",
     "steamId": "932008009",
@@ -70,18 +184,6 @@
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
     "version": "2.6.3.4"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "Solid E. Wires",
@@ -126,12 +228,6 @@
     "version": null
   },
   {
-    "author": "Sarg Bjornson and AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Sarg",
     "name": "Alpha Biomes",
     "steamId": "1841354677",
@@ -141,12 +237,6 @@
     "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Mechs",
-    "steamId": "2973169158",
     "version": "1.0.0.0"
   },
   {
@@ -211,12 +301,6 @@
   },
   {
     "author": "Aelanna",
-    "name": "A Rim Reborn - Core",
-    "steamId": "2659227786",
-    "version": "0.4.9"
-  },
-  {
-    "author": "Aelanna",
     "name": "A Rim Reborn - Au Ra Race",
     "steamId": null,
     "version": null
@@ -228,22 +312,10 @@
     "version": null
   },
   {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Elezen Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Cooking Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
-    "name": "Vanilla Factions Expanded - Pirates",
-    "steamId": "2723801948",
-    "version": "1.0.0.0"
   },
   {
     "author": "Hobbes, Bambaryła",
@@ -288,12 +360,6 @@
     "version": null
   },
   {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Lalafell Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "RemingtonRyder",
     "name": "Ugh You Got Me",
     "steamId": "1542424705",
@@ -304,12 +370,6 @@
     "name": "Vanilla Genetics Expanded",
     "steamId": "2801160906",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Hyur Race",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Jaxe",
@@ -466,12 +526,6 @@
     "name": "Social EXP from Trade",
     "steamId": "3400608063",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Soul, Phaneron and Bradson",

@@ -979,12 +979,6 @@
       "price": 3
     },
     {
-      "abr": "chinchilla",
-      "category": "Animals",
-      "defname": "Chinchilla",
-      "price": -10
-    },
-    {
       "abr": "chinchillafur",
       "category": "Leathers",
       "defname": "Leather_Chinchilla",
@@ -1474,7 +1468,7 @@
       "abr": "druidspell:regrowlimb",
       "category": "Scrolls",
       "defname": "SpellOf_RegrowLimb",
-      "price": -10
+      "price": 3100
     },
     {
       "abr": "duck",
@@ -1750,13 +1744,13 @@
       "abr": "essenceofmagic",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MagicEssence",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "essenceofmight",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MightEssence",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "exoticsmelter",
@@ -4817,12 +4811,6 @@
       "category": "Meat",
       "defname": "Meat_TM_Poppi",
       "price": 3
-    },
-    {
-      "abr": "porcupine",
-      "category": "Animals",
-      "defname": "AEXP_Porcupine",
-      "price": 200
     },
     {
       "abr": "porcupinemeat",
@@ -10609,12 +10597,6 @@
       "price": 333
     },
     {
-      "abr": "wildgoose",
-      "category": "Animals",
-      "defname": "AEXP_WildGoose",
-      "price": 125
-    },
-    {
       "abr": "wildgooseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggWildGooseFertilized",
@@ -14903,7 +14885,193 @@
       "category": "Gene tools",
       "defname": "AG_XenotypeNullifier",
       "price": 167
+    },
+    {
+      "abr": "antibiotics",
+      "category": "Drugs",
+      "defname": "VRE_Antibiotics",
+      "price": 30
+    },
+    {
+      "abr": "anti-immunitypills",
+      "category": "Drugs",
+      "defname": "WVC_AntiImmunityPills",
+      "price": 20
+    },
+    {
+      "abr": "archotechgeneticstabilizer",
+      "category": "Xenotype serums",
+      "defname": "WVC_GeneticStabilizerSerum_Archotech",
+      "price": 6117
+    },
+    {
+      "abr": "archotypeserum",
+      "category": "Xenotype serums",
+      "defname": "WVC_XenotypeSerum_Ultra",
+      "price": 14283
+    },
+    {
+      "abr": "duplicaterestorationserum",
+      "category": "Xenotype serums",
+      "defname": "WVC_ShapeshifterOverclockerSerum_Base",
+      "price": 1117
+    },
+    {
+      "abr": "dustogenicpastemeal",
+      "category": "Meals",
+      "defname": "WVC_MealDustogenicPaste",
+      "price": 17
+    },
+    {
+      "abr": "eyedyepills",
+      "category": "Drugs",
+      "defname": "WVC_EyedyePills",
+      "price": 3
+    },
+    {
+      "abr": "form-createrserum",
+      "category": "Xenotype serums",
+      "defname": "WVC_GeneMorpherSerum_AddForm",
+      "price": 5292
+    },
+    {
+      "abr": "genegiver",
+      "category": "Xenotype serums",
+      "defname": "WVC_ArchotechGeneGiver",
+      "price": 9583
+    },
+    {
+      "abr": "generestorationserum",
+      "category": "Xenotype serums",
+      "defname": "WVC_GeneRestorationSerum_Base",
+      "price": 1117
+    },
+    {
+      "abr": "geneticstabilizer",
+      "category": "Xenotype serums",
+      "defname": "WVC_GeneticStabilizerSerum_Base",
+      "price": 1117
+    },
+    {
+      "abr": "hybridtypeserum",
+      "category": "Xenotype serums",
+      "defname": "WVC_XenotypeSerum_Hybrid",
+      "price": 20367
+    },
+    {
+      "abr": "mechapack",
+      "category": "Misc",
+      "defname": "WVC_MechaGenepack",
+      "price": 167
+    },
+    {
+      "abr": "nutrientsinjector",
+      "category": "Foods",
+      "defname": "WVC_NutrientsInjector",
+      "price": 58
+    },
+    {
+      "abr": "packageddustogenicmeal",
+      "category": "Meals",
+      "defname": "WVC_MealDustPack",
+      "price": 40
+    },
+    {
+      "abr": "resurgentspore",
+      "category": "Misc",
+      "defname": "WVC_ResurgentSeed",
+      "price": 1200
+    },
+    {
+      "abr": "shiftserum(coma)",
+      "category": "Xenotype serums",
+      "defname": "WVC_GeneShapeshifterSerum_Coma",
+      "price": 2783
+    },
+    {
+      "abr": "shiftserum(genesregrow)",
+      "category": "Xenotype serums",
+      "defname": "WVC_GeneShapeshifterSerum_GenesRegrow",
+      "price": 7783
+    },
+    {
+      "abr": "subcoregestationvat",
+      "category": "Special",
+      "defname": "WVC_XenotypesAndGenes_UltranitesSpawner",
+      "price": 1300
+    },
+    {
+      "abr": "ultrapack",
+      "category": "Misc",
+      "defname": "WVC_UltraGenepack",
+      "price": 167
+    },
+    {
+      "abr": "undeadtypeserum",
+      "category": "Xenotype serums",
+      "defname": "WVC_SubXenotypeSerum_Undead",
+      "price": 31417
+    },
+    {
+      "abr": "w-pack",
+      "category": "Misc",
+      "defname": "WVC_Genepack",
+      "price": 167
+    },
+    {
+      "abr": "xenogenesserumlab",
+      "category": "Production",
+      "defname": "WVC_SerumCraftingTable",
+      "price": 692
+    },
+    {
+      "abr": "xeno-tree",
+      "category": "Plants",
+      "defname": "WVC_Plant_TreeXenoSpawner",
+      "price": 3667
+    },
+    {
+      "abr": "xeno-treespore",
+      "category": "Misc",
+      "defname": "WVC_XenoSpawnerSeed",
+      "price": 3667
+    },
+    {
+      "abr": "xenotypenullifierserum",
+      "category": "Xenotype serums",
+      "defname": "WVC_XenotypeSerum_Nullifier",
+      "price": 2117
+    },
+    {
+      "abr": "xenotypenullifierserum",
+      "category": "Xenotype serums",
+      "defname": "WVC_XenotypeSerum_Baseliner",
+      "price": 4500
+    },
+    {
+      "abr": "xenotyperesurrector",
+      "category": "Xenotype serums",
+      "defname": "WVC_XenotypeResurrectorSerum_Ultra",
+      "price": 21417
+    },
+    {
+      "abr": "xenotyperesurrector",
+      "category": "Xenotype serums",
+      "defname": "WVC_XenotypeResurrectorSerum_Undead",
+      "price": 18083
+    },
+    {
+      "abr": "xenotypeserum",
+      "category": "Xenotype serums",
+      "defname": "WVC_XenotypeSerum_Base",
+      "price": 7250
+    },
+    {
+      "abr": "chinchilla",
+      "category": "Animals",
+      "defname": "Chinchilla",
+      "price": 250
     }
   ],
-  "total": 2484
+  "total": 2512
 }

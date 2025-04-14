@@ -361,11 +361,11 @@
       "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -383,11 +383,11 @@
       "description": "Timmy is romantically attracted to both men and women.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -17017,11 +17017,11 @@
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Humanoid Alien Races",
@@ -17039,11 +17039,11 @@
       "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Humanoid Alien Races",
@@ -18275,6 +18275,164 @@
       },
       "defName": "VFEP_WarcasketTrait_Mech",
       "name": "mechwarcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is afraid of shapeshift; just the thought of a sudden and complete transformation gives him goosebumps.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "WVC - Xenotypes and Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "WVC_XaG_ShapeshiftPhobia",
+      "name": "shiftphobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a special psychic reaction to shapeshift, each use of this ability temporarily increases psychic sensitivity.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "WVC - Xenotypes and Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "WVC_XaG_ShapeshiftOverclock",
+      "name": "psychicshift"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "For some strange reason, Timmy is not touched by ancient mechanoids, they constantly ignore him no matter what Timmy takes against them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "WVC - Xenotypes and Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "WVC_RB_FriendOrFoeTrait",
+      "name": "techno-ghost"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is able to manipulate Ki greatly increasing him physical performance.",
+      "stats": [
+        "+10% global work speed",
+        "+2.0 shooting accuracy",
+        "+40 carrying capacity",
+        "-15% mental break threshold",
+        "+1.20 move speed",
+        "+$2500 market value",
+        "+100.0 Max KI energy",
+        "x120% research speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10% global work speed",
+          "+2.0 shooting accuracy",
+          "+40 carrying capacity",
+          "-15% mental break threshold",
+          "+1.20 move speed",
+          "+$2500 market value",
+          "+100.0 Max KI energy",
+          "x120% research speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "The Saiyans",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SR_KiUser",
+      "name": "kiuser"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The ultimate transformation for a saiyan warrior.",
+      "stats": [
+        "+$1500 market value"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+$1500 market value"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "The Saiyans",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SR_SuperSaiyanTrait",
+      "name": "supersaiyan"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The ultimate transformation for a saiyan warrior.",
+      "stats": [
+        "+$1500 market value"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+$1500 market value"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "The Saiyans",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SR_LegendarySuperSaiyanTrait",
+      "name": "legendarysupersaiyan"
     }
   ],
   "races": [
@@ -18416,54 +18574,6 @@
           "+60.00 Mass",
           "+70% Flammability",
           "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Min comfortable temperature",
-          "+26.0C Max comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+105.00% Negotiation ability",
-          "+110.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The Elezen are a characteristically tall people, long of limb and slender of build. They are also possessed of a somewhat extended lifespan in comparison to the Hyur. The Elezen once claimed sole dominion over Eorzea, their presence predating that of the other races, and, as such, developed a heightened sense of honor and pride. In years past, the Hyur migration into Elezen lands sparked bitter conflict. At present, however, the mutual understanding reached between the two races allows them to work towards mutual peace and prosperity.\n\nFor the past several centuries, the Duskwight Elezen have lived in the woodland caverns of Eorzea. These cave-dwelling Elezen are the descendants of a branch that split from the main Wildwood clan during the founding of Gridania. The Duskwight despise the \"shackles\" of urban life, and it is not uncommon for this reclusive people to avoid the city-states altogether.",
-      "defName": "ARR_ElezenDuskwight",
-      "enabled": true,
-      "name": "elezen",
-      "price": 917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Min comfortable temperature",
-          "+26.0C Max comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+105.00% Negotiation ability",
-          "+110.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The Elezen are a characteristically tall people, long of limb and slender of build. They are also possessed of a somewhat extended lifespan in comparison to the Hyur. The Elezen once claimed sole dominion over Eorzea, their presence predating that of the other races, and, as such, developed a heightened sense of honor and pride. In years past, the Hyur migration into Elezen lands sparked bitter conflict. At present, however, the mutual understanding reached between the two races allows them to work towards mutual peace and prosperity.\n\nThe forests, of which the Black Shroud is the tangled heart, have been home to the Wildwood Elezen for hundreds of years. Many of the Wildwood, however, have been drawn to the city-states they helped found, such as Ishgard and Gridania. Their fondness for law and order has contributed to a reputation for being haughty and argumentative.",
-      "defName": "ARR_ElezenWildwood",
-      "enabled": true,
-      "name": "elezen",
-      "price": 917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
           "+4.80 Move speed",
           "+18.0C Min comfortable temperature",
           "+28.0C Max comfortable temperature",
@@ -18561,6 +18671,151 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+$4375 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+90% Pain shock threshold",
+          "+30.0% Armor - Blunt",
+          "+30.0% Armor - Sharp",
+          "+30.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "half saiyan race.",
+      "defName": "SR_HalfSaiyanRace",
+      "enabled": true,
+      "name": "half saiyan",
+      "price": 7292
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$4375 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+90% Pain shock threshold",
+          "+30.0% Armor - Blunt",
+          "+30.0% Armor - Sharp",
+          "+30.0% Armor - Heat",
+          "+2.5 Max nutrition"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "saiyan race.",
+      "defName": "SR_SaiyanRace",
+      "enabled": true,
+      "name": "saiyan",
+      "price": 7292
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Over the course of some one thousand years and three great migratory waves, the Hyur have come to be the most populous of the civilized races in Eorzea. Compared to the others, theirs is an average physique, both in terms of height and build. The Hyur champion personal freedom and liberty, and their espousal of an eclectic variety of languages and traditions is a legacy of their diverse heritage―as is their resulting lack of a unified cultural identity.\n\nThe Highlander name comes from the clan's history of dominion over the mountains of Gyr Abania. Compared to their Midlander brethren, the Highlanders are noticeably larger in build and musculature. Following the fall of their ancestral homeland of Ala Mhigo, many have sought refuge in the bustling mercantile nation of Ul'dah.",
+      "defName": "ARR_HyurHighlander",
+      "enabled": true,
+      "name": "Hyur",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Over the course of some one thousand years and three great migratory waves, the Hyur have come to be the most populous of the civilized races in Eorzea. Compared to the others, theirs is an average physique, both in terms of height and build. The Hyur champion personal freedom and liberty, and their espousal of an eclectic variety of languages and traditions is a legacy of their diverse heritage―as is their resulting lack of a unified cultural identity.\n\nThe Midlander clan comprises over half of Eorzea's total Hyur population. The name derives from the clan's long tradition of settling in low-lying regions, though in truth Midlander lines hail from a wide variety of ancestral homelands. They have established themselves in every city throughout the realm, and can be observed leading lives as diverse as their heritage.",
+      "defName": "ARR_HyurMidlander",
+      "enabled": true,
+      "name": "Hyur",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+105.00% Negotiation ability",
+          "+110.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The Elezen are a characteristically tall people, long of limb and slender of build. They are also possessed of a somewhat extended lifespan in comparison to the Hyur. The Elezen once claimed sole dominion over Eorzea, their presence predating that of the other races, and, as such, developed a heightened sense of honor and pride. In years past, the Hyur migration into Elezen lands sparked bitter conflict. At present, however, the mutual understanding reached between the two races allows them to work towards mutual peace and prosperity.\n\nFor the past several centuries, the Duskwight Elezen have lived in the woodland caverns of Eorzea. These cave-dwelling Elezen are the descendants of a branch that split from the main Wildwood clan during the founding of Gridania. The Duskwight despise the \"shackles\" of urban life, and it is not uncommon for this reclusive people to avoid the city-states altogether.",
+      "defName": "ARR_ElezenDuskwight",
+      "enabled": true,
+      "name": "elezen",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+105.00% Negotiation ability",
+          "+110.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The Elezen are a characteristically tall people, long of limb and slender of build. They are also possessed of a somewhat extended lifespan in comparison to the Hyur. The Elezen once claimed sole dominion over Eorzea, their presence predating that of the other races, and, as such, developed a heightened sense of honor and pride. In years past, the Hyur migration into Elezen lands sparked bitter conflict. At present, however, the mutual understanding reached between the two races allows them to work towards mutual peace and prosperity.\n\nThe forests, of which the Black Shroud is the tangled heart, have been home to the Wildwood Elezen for hundreds of years. Many of the Wildwood, however, have been drawn to the city-states they helped found, such as Ishgard and Gridania. Their fondness for law and order has contributed to a reputation for being haughty and argumentative.",
+      "defName": "ARR_ElezenWildwood",
+      "enabled": true,
+      "name": "elezen",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
           "+$1750 Market value",
           "+4.40 Move speed",
           "+16.0C Min comfortable temperature",
@@ -18577,7 +18832,7 @@
       "defName": "ARR_LalafellDunesfolk",
       "enabled": true,
       "name": "Lalafell",
-      "price": 917
+      "price": 2917
     },
     {
       "data": {
@@ -18601,51 +18856,7 @@
       "defName": "ARR_LalafellPlainsfolk",
       "enabled": true,
       "name": "Lalafell",
-      "price": 917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Min comfortable temperature",
-          "+26.0C Max comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Over the course of some one thousand years and three great migratory waves, the Hyur have come to be the most populous of the civilized races in Eorzea. Compared to the others, theirs is an average physique, both in terms of height and build. The Hyur champion personal freedom and liberty, and their espousal of an eclectic variety of languages and traditions is a legacy of their diverse heritage―as is their resulting lack of a unified cultural identity.\n\nThe Highlander name comes from the clan's history of dominion over the mountains of Gyr Abania. Compared to their Midlander brethren, the Highlanders are noticeably larger in build and musculature. Following the fall of their ancestral homeland of Ala Mhigo, many have sought refuge in the bustling mercantile nation of Ul'dah.",
-      "defName": "ARR_HyurHighlander",
-      "enabled": true,
-      "name": "Hyur",
-      "price": 917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Min comfortable temperature",
-          "+26.0C Max comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Over the course of some one thousand years and three great migratory waves, the Hyur have come to be the most populous of the civilized races in Eorzea. Compared to the others, theirs is an average physique, both in terms of height and build. The Hyur champion personal freedom and liberty, and their espousal of an eclectic variety of languages and traditions is a legacy of their diverse heritage―as is their resulting lack of a unified cultural identity.\n\nThe Midlander clan comprises over half of Eorzea's total Hyur population. The name derives from the clan's long tradition of settling in low-lying regions, though in truth Midlander lines hail from a wide variety of ancestral homelands. They have established themselves in every city throughout the realm, and can be observed leading lives as diverse as their heritage.",
-      "defName": "ARR_HyurMidlander",
-      "enabled": true,
-      "name": "Hyur",
-      "price": 917
+      "price": 2917
     }
   ]
 }

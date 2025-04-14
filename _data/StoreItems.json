@@ -979,12 +979,6 @@
 		"defname": "Meat_Chicken"
 	},
 	{
-		"abr": "chinchilla",
-		"price": -10,
-		"category": "Animals",
-		"defname": "Chinchilla"
-	},
-	{
 		"abr": "chinchillafur",
 		"price": 11,
 		"category": "Leathers",
@@ -1472,7 +1466,7 @@
 	},
 	{
 		"abr": "druidspell:regrowlimb",
-		"price": -10,
+		"price": 3100,
 		"category": "Scrolls",
 		"defname": "SpellOf_RegrowLimb"
 	},
@@ -1697,12 +1691,6 @@
 		"price": -10,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeEMP"
-	},
-	{
-		"abr": "emplauncher",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "Gun_EmpLauncher"
 	},
 	{
 		"abr": "empshell",
@@ -1973,12 +1961,6 @@
 		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_Flamethrower"
-	},
-	{
-		"abr": "flashgrenades",
-		"price": -10,
-		"category": "Grenades",
-		"defname": "VWE_FlashGrenade"
 	},
 	{
 		"abr": "flatscreentelevision",
@@ -4817,12 +4799,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_TM_Poppi"
-	},
-	{
-		"abr": "porcupine",
-		"price": 200,
-		"category": "Animals",
-		"defname": "AEXP_Porcupine"
 	},
 	{
 		"abr": "porcupinemeat",
@@ -8965,18 +8941,6 @@
 		"defname": "VFEM2_SmithingAnvil"
 	},
 	{
-		"abr": "smokegrenades",
-		"price": 215,
-		"category": "Grenades",
-		"defname": "VWE_SmokeGrenade"
-	},
-	{
-		"abr": "smokelauncher",
-		"price": 633,
-		"category": "Ranged weapons",
-		"defname": "Gun_SmokeLauncher"
-	},
-	{
 		"abr": "smokeshell",
 		"price": 92,
 		"category": "Mortar shells",
@@ -10609,12 +10573,6 @@
 		"defname": "WildBoar"
 	},
 	{
-		"abr": "wildgoose",
-		"price": 125,
-		"category": "Animals",
-		"defname": "AEXP_WildGoose"
-	},
-	{
 		"abr": "wildgooseegg(fert.)",
 		"price": 18,
 		"category": "Eggs (fert.)",
@@ -10879,48 +10837,6 @@
 		"defname": "ARR_ApparelAuRaTopMale"
 	},
 	{
-		"abr": "elezen",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ARR_ElezenWildwood"
-	},
-	{
-		"abr": "elezen",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ARR_ElezenDuskwight"
-	},
-	{
-		"abr": "elezenbraccae",
-		"price": 141,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ApparelElezenBottomMale"
-	},
-	{
-		"abr": "elezengown",
-		"price": 157,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ApparelElezenTopFemale"
-	},
-	{
-		"abr": "elezenmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_ARR_ElezenWildwood"
-	},
-	{
-		"abr": "elezensurcoat",
-		"price": 157,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ApparelElezenTopMale"
-	},
-	{
-		"abr": "elezentights",
-		"price": 141,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ApparelElezenBottomFemale"
-	},
-	{
 		"abr": "glamouredpowerarmor",
 		"price": 3217,
 		"category": "A Rim Reborn",
@@ -10967,96 +10883,6 @@
 		"price": 375,
 		"category": "Ranged weapons",
 		"defname": "ARR_HybridScattergun"
-	},
-	{
-		"abr": "hyur",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ARR_HyurMidlander"
-	},
-	{
-		"abr": "hyur",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ARR_HyurHighlander"
-	},
-	{
-		"abr": "hyurmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_ARR_HyurMidlander"
-	},
-	{
-		"abr": "hyuranbreeches",
-		"price": 141,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ApparelHyurBottomMale"
-	},
-	{
-		"abr": "hyuranchemisette",
-		"price": 157,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ApparelHyurTopFemale"
-	},
-	{
-		"abr": "hyuranskirt",
-		"price": 141,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ApparelHyurBottomFemale"
-	},
-	{
-		"abr": "hyurantunic",
-		"price": 157,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ApparelHyurTopMale"
-	},
-	{
-		"abr": "lalafell",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ARR_LalafellPlainsfolk"
-	},
-	{
-		"abr": "lalafell",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ARR_LalafellDunesfolk"
-	},
-	{
-		"abr": "lalafellmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_ARR_LalafellPlainsfolk"
-	},
-	{
-		"abr": "lalafellmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_ARR_LalafellDunesfolk"
-	},
-	{
-		"abr": "lalafellinbloomers",
-		"price": 141,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ApparelLalafellBottomFemale"
-	},
-	{
-		"abr": "lalafellingaskins",
-		"price": 141,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ApparelLalafellBottomMale"
-	},
-	{
-		"abr": "lalafellinkaftan",
-		"price": 157,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ApparelLalafellTopFemale"
-	},
-	{
-		"abr": "lalafellintunic",
-		"price": 157,
-		"category": "A Rim Reborn",
-		"defname": "ARR_ApparelLalafellTopMale"
 	},
 	{
 		"abr": "miqo'te",
@@ -13741,12 +13567,6 @@
 		"defname": "BS_MealLargeFine"
 	},
 	{
-		"abr": "flamebow",
-		"price": 75,
-		"category": "Ranged weapons",
-		"defname": "Flamebow"
-	},
-	{
 		"abr": "forsakenarmor",
 		"price": 5858,
 		"category": "Armor",
@@ -14785,12 +14605,6 @@
 		"defname": "Meat_Toxalope"
 	},
 	{
-		"abr": "toxbomblauncher",
-		"price": 633,
-		"category": "Ranged weapons",
-		"defname": "Gun_ToxbombLauncher"
-	},
-	{
 		"abr": "toxipotatoes",
 		"price": 1,
 		"category": "Vegetarian",
@@ -14909,7 +14723,283 @@
 		"price": 30,
 		"category": "Drugs",
 		"defname": "VRE_Antibiotics"
-	}
+	},
+	{
+		"abr": "anti-immunitypills",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "WVC_AntiImmunityPills"
+	},
+	{
+		"abr": "archotechgeneticstabilizer",
+		"price": 6117,
+		"category": "Xenotype serums",
+		"defname": "WVC_GeneticStabilizerSerum_Archotech"
+	},
+	{
+		"abr": "archotypeserum",
+		"price": 14283,
+		"category": "Xenotype serums",
+		"defname": "WVC_XenotypeSerum_Ultra"
+	},
+	{
+		"abr": "duplicaterestorationserum",
+		"price": 1117,
+		"category": "Xenotype serums",
+		"defname": "WVC_ShapeshifterOverclockerSerum_Base"
+	},
+	{
+		"abr": "dustogenicpastemeal",
+		"price": 17,
+		"category": "Meals",
+		"defname": "WVC_MealDustogenicPaste"
+	},
+	{
+		"abr": "eyedyepills",
+		"price": 3,
+		"category": "Drugs",
+		"defname": "WVC_EyedyePills"
+	},
+	{
+		"abr": "form-createrserum",
+		"price": 5292,
+		"category": "Xenotype serums",
+		"defname": "WVC_GeneMorpherSerum_AddForm"
+	},
+	{
+		"abr": "genegiver",
+		"price": 9583,
+		"category": "Xenotype serums",
+		"defname": "WVC_ArchotechGeneGiver"
+	},
+	{
+		"abr": "generestorationserum",
+		"price": 1117,
+		"category": "Xenotype serums",
+		"defname": "WVC_GeneRestorationSerum_Base"
+	},
+	{
+		"abr": "geneticstabilizer",
+		"price": 1117,
+		"category": "Xenotype serums",
+		"defname": "WVC_GeneticStabilizerSerum_Base"
+	},
+	{
+		"abr": "hybridtypeserum",
+		"price": 20367,
+		"category": "Xenotype serums",
+		"defname": "WVC_XenotypeSerum_Hybrid"
+	},
+	{
+		"abr": "mechapack",
+		"price": 167,
+		"category": "Misc",
+		"defname": "WVC_MechaGenepack"
+	},
+	{
+		"abr": "nutrientsinjector",
+		"price": 58,
+		"category": "Foods",
+		"defname": "WVC_NutrientsInjector"
+	},
+	{
+		"abr": "packageddustogenicmeal",
+		"price": 40,
+		"category": "Meals",
+		"defname": "WVC_MealDustPack"
+	},
+	{
+		"abr": "resurgentspore",
+		"price": 1200,
+		"category": "Misc",
+		"defname": "WVC_ResurgentSeed"
+	},
+	{
+		"abr": "shiftserum(coma)",
+		"price": 2783,
+		"category": "Xenotype serums",
+		"defname": "WVC_GeneShapeshifterSerum_Coma"
+	},
+	{
+		"abr": "shiftserum(genesregrow)",
+		"price": 7783,
+		"category": "Xenotype serums",
+		"defname": "WVC_GeneShapeshifterSerum_GenesRegrow"
+	},
+	{
+		"abr": "subcoregestationvat",
+		"price": 1300,
+		"category": "Special",
+		"defname": "WVC_XenotypesAndGenes_UltranitesSpawner"
+	},
+	{
+		"abr": "ultrapack",
+		"price": 167,
+		"category": "Misc",
+		"defname": "WVC_UltraGenepack"
+	},
+	{
+		"abr": "undeadtypeserum",
+		"price": 31417,
+		"category": "Xenotype serums",
+		"defname": "WVC_SubXenotypeSerum_Undead"
+	},
+	{
+		"abr": "w-pack",
+		"price": 167,
+		"category": "Misc",
+		"defname": "WVC_Genepack"
+	},
+	{
+		"abr": "xenogenesserumlab",
+		"price": 692,
+		"category": "Production",
+		"defname": "WVC_SerumCraftingTable"
+	},
+	{
+		"abr": "xeno-tree",
+		"price": 3667,
+		"category": "Plants",
+		"defname": "WVC_Plant_TreeXenoSpawner"
+	},
+	{
+		"abr": "xeno-treespore",
+		"price": 3667,
+		"category": "Misc",
+		"defname": "WVC_XenoSpawnerSeed"
+	},
+	{
+		"abr": "xenotypenullifierserum",
+		"price": 2117,
+		"category": "Xenotype serums",
+		"defname": "WVC_XenotypeSerum_Nullifier"
+	},
+	{
+		"abr": "xenotypenullifierserum",
+		"price": 4500,
+		"category": "Xenotype serums",
+		"defname": "WVC_XenotypeSerum_Baseliner"
+	},
+	{
+		"abr": "xenotyperesurrector",
+		"price": 21417,
+		"category": "Xenotype serums",
+		"defname": "WVC_XenotypeResurrectorSerum_Ultra"
+	},
+	{
+		"abr": "xenotyperesurrector",
+		"price": 18083,
+		"category": "Xenotype serums",
+		"defname": "WVC_XenotypeResurrectorSerum_Undead"
+	},
+	{
+		"abr": "xenotypeserum",
+		"price": 7250,
+		"category": "Xenotype serums",
+		"defname": "WVC_XenotypeSerum_Base"
+	},
+	{
+		"abr": "chinchilla",
+		"price": 250,
+		"category": "Animals",
+		"defname": "Chinchilla"
+	},
+	{
+		"abr": "basickiguide",
+		"price": 5000,
+		"category": "Items",
+		"defname": "SR_SkillBook_BasicGuides"
+	},
+	{
+		"abr": "fermentingbarrel",
+		"price": 135,
+		"category": "Production",
+		"defname": "BarrelProcessor"
+	},
+	{
+		"abr": "gisuit",
+		"price": 230,
+		"category": "Apparel",
+		"defname": "SR_GiSuit"
+	},
+	{
+		"abr": "halfsaiyan",
+		"price": 7292,
+		"category": "Animal",
+		"defname": "SR_HalfSaiyanRace"
+	},
+	{
+		"abr": "halfsaiyanmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_SR_HalfSaiyanRace"
+	},
+	{
+		"abr": "kairobes",
+		"price": 2317,
+		"category": "Armor",
+		"defname": "SR_KaiRobes"
+	},
+	{
+		"abr": "kimask",
+		"price": 3000,
+		"category": "Headgear",
+		"defname": "SR_KiMask"
+	},
+	{
+		"abr": "kiwritingbench",
+		"price": 2008,
+		"category": "Production",
+		"defname": "SR_KiWritingBench"
+	},
+	{
+		"abr": "medievalsaiyanarmor",
+		"price": 1000,
+		"category": "Armor",
+		"defname": "SR_MedievalSaiyanArmor"
+	},
+	{
+		"abr": "elezen",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_ElezenWildwood"
+	},
+	{
+		"abr": "elezen",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_ElezenDuskwight"
+	},
+	{
+		"abr": "elezenbraccae",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelElezenBottomMale"
+	},
+	{
+		"abr": "elezengown",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelElezenTopFemale"
+	},
+	{
+		"abr": "elezenmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_ARR_ElezenWildwood"
+	},
+	{
+		"abr": "elezensurcoat",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelElezenTopMale"
+	},
+	{
+		"abr": "elezentights",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelElezenBottomFemale"
+	},
 	],
-	"total": 2485
+	"total": 2656
 }
