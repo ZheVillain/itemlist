@@ -12,10 +12,46 @@
     "version": "2.3.1.0"
   },
   {
+    "author": "Observer",
+    "name": "DevelopMode fix",
+    "steamId": "2879782112",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.5"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Books",
+    "steamId": "3403180654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": "2193152410",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.10.0"
   },
   {
     "author": "Imranfish",
@@ -30,38 +66,206 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Core",
-    "steamId": "2659227786",
-    "version": "0.4.9"
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Hyur Race",
+    "author": "Elv原则",
+    "name": "Naruto Gene",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Elezen Race",
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Core",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Lalafell Race",
+    "author": "Roo",
+    "name": "Gloomy Dragonian race",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
+    "author": "Roo",
+    "name": "Anty the war ant race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MelonDove and Ancot",
+    "name": "Wolfein Race",
+    "steamId": "3473140562",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Rim Megami Tensei (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.8838.32721"
+  },
+  {
+    "author": "HaiLuan",
+    "name": "Custom Quest Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Genes & More",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FluffyKittens",
+    "name": "Categorized Bill Dropdown",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roo",
+    "name": "Yuran race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zebu",
+    "name": "Rimscape Medieval Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Majaus",
+    "name": "Majaus's Rimworld 3D",
+    "steamId": "3404068997",
+    "version": "1.0.0+c2a7dddb2aa370e9621972830320f640c6e206f4"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Scrollable Genelist",
+    "steamId": "3453246011",
+    "version": "1.5.1"
+  },
+  {
+    "author": "Zhuma",
+    "name": "Gene Menu",
+    "steamId": "3403376552",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "alite",
+    "name": "EBSG Framework",
+    "steamId": "3112549163",
+    "version": "1.0.9243.34809"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dog Problems",
+    "name": "Musical Instruments (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Goji, Arquebus, SirVan, Phy, DandMan, dendroid101 and visandar",
+    "name": "Goji's Fantasy Race: Merren",
+    "steamId": "3026235711",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "alite",
+    "name": "Superhero Genes - Base",
+    "steamId": "2980061828",
+    "version": "1.0.9219.14824"
+  },
+  {
+    "author": "alite",
+    "name": "Superhero Genes - Villains and Stereotypes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "alite",
+    "name": "Superhero Genes - Hero Organization",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo, Owlchemist and dav9670",
+    "name": "Giddy-Up 2 Forked",
+    "steamId": "3246108162",
+    "version": "1.5+627196f1b9693f2acae601a5fdeb337e15b97711"
+  },
+  {
+    "author": "Spanky_H",
+    "name": "Bun Race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Soareverix",
     "name": "Infinite Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.3.4"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
     "steamId": null,
     "version": null
   },
@@ -102,12 +306,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg Bjornson and AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Sarg Bjornson",
     "name": "Alpha Mechs",
     "steamId": "2973169158",
@@ -118,12 +316,6 @@
     "name": "TD Enhancement Pack",
     "steamId": "1339135272",
     "version": "1.3.8.0"
-  },
-  {
-    "author": "LifeisGame.inc and Taranchuk",
-    "name": "The Saiyans",
-    "steamId": "2768874080",
-    "version": "1.0.0.0"
   },
   {
     "author": "Gege",
@@ -156,12 +348,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "11.0.5"
-  },
-  {
     "author": "bradson",
     "name": "Xenotype Spawn Control",
     "steamId": "3411568951",
@@ -172,18 +358,6 @@
     "name": "WVC - Xenotypes and Genes",
     "steamId": "2886992038",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.3.4"
   },
   {
     "author": "Solid E. Wires",
@@ -228,34 +402,10 @@
     "version": null
   },
   {
-    "author": "Sarg",
-    "name": "Alpha Biomes",
-    "steamId": "1841354677",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
-    "name": "Alpha Genes",
-    "steamId": "2891845502",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Turnovus",
     "name": "Integrated Genes",
     "steamId": "2884115974",
     "version": "1.5.2"
-  },
-  {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - Genes & More",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Lennoxicon",
@@ -300,12 +450,6 @@
     "version": "1.0.1.0"
   },
   {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Au Ra Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Races Expanded - Waster",
     "steamId": null,
@@ -324,12 +468,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Viera Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "4loris4",
     "name": "More Linkables",
     "steamId": null,
@@ -346,18 +484,6 @@
     "name": "Camera+",
     "steamId": "867467808",
     "version": "3.2.0.0"
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Miqo'te Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Hybrid Tech",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "RemingtonRyder",
@@ -402,12 +528,6 @@
     "version": "1.1.1.0"
   },
   {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Classes and Jobs",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sarg",
     "name": "Smart Speed",
     "steamId": "1504723424",
@@ -436,12 +556,6 @@
     "name": "Star Wars - The Force",
     "steamId": "918226861",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "legodude17 and ISOREX",
-    "name": "Pawn Editor",
-    "steamId": "3219801790",
-    "version": "1.0.9"
   },
   {
     "author": "tyinplop",
@@ -558,18 +672,6 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "Roolo, Owlchemist and dav9670",
-    "name": "Giddy-Up 2 Forked",
-    "steamId": "3246108162",
-    "version": "1.5+627196f1b9693f2acae601a5fdeb337e15b97711"
-  },
-  {
-    "author": "Dylan",
-    "name": "Animal Gear",
-    "steamId": "1541438907",
-    "version": "1.5.0.1"
-  },
-  {
     "author": "VVenchov",
     "name": "VV - New Harvest",
     "steamId": null,
@@ -600,12 +702,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
@@ -616,12 +712,6 @@
     "name": "Runescape Level-up",
     "steamId": "2647721268",
     "version": "1.0.0+3f91e838fa7f44e4978a57ba2bae69ba640a4bf1"
-  },
-  {
-    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
   },
   {
     "author": "PeteTimesSix",
