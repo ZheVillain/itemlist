@@ -98826,7 +98826,10 @@
           "+400% Mining speed",
           "+50% Mining yield",
           "+25.0% Armor - Blunt",
-          "+85.0% Armor - Sharp"
+          "+85.0% Armor - Sharp",
+          "+100% Hypoxia resistance",
+          "+100% Decompression resistance",
+          "+400% Vacuum speed multiplier"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -98886,7 +98889,10 @@
           "+400% Mining speed",
           "+50% Mining yield",
           "+45.0% Armor - Blunt",
-          "+95.0% Armor - Sharp"
+          "+95.0% Armor - Sharp",
+          "+100% Hypoxia resistance",
+          "+100% Decompression resistance",
+          "+400% Vacuum speed multiplier"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -98946,7 +98952,10 @@
           "+400% Mining speed",
           "+50% Mining yield",
           "+45.0% Armor - Blunt",
-          "+125.0% Armor - Sharp"
+          "+125.0% Armor - Sharp",
+          "+100% Hypoxia resistance",
+          "+100% Decompression resistance",
+          "+400% Vacuum speed multiplier"
         ],
         "mod": "Unknown",
         "karmaType": null
